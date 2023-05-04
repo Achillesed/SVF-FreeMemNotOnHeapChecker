@@ -2,7 +2,6 @@ Release*/
 Debug*/
 build/
 html/
-Test-Suite/
 Release+Asserts/
 Debug+Asserts/
 autoconf/
@@ -13,7 +12,6 @@ doxygen/
 *~
 *.o
 *.out
-*.ll
 *.bc
 *.opt
 *.log
